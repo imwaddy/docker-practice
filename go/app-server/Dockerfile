@@ -12,4 +12,4 @@ RUN go build main.go
 
 ENTRYPOINT [ "./main" ]
 
-EXPOSE 8081
+#EXPOSE 8080
